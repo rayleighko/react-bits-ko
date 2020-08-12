@@ -1,5 +1,5 @@
-# Coding Style
+# 코딩 스타일[Coding Style]
 
-**Disclaimer:**
+**면책 조항:**
 
-This section is purely to familiarize oneself with different coding styles out there. It is not a set of coding standards or conventions!
+이 섹션은 순전히 다른 코딩 스타일에 익숙해지기위한 것입니다. 일련의 코딩 표준이나 규칙이 아닙니다!
