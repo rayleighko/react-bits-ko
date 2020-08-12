@@ -1,3 +1,3 @@
-# Anti-patterns
+# 안티 패턴[Anti-patterns]
 
-Familiarizing ourselves with common anti-patterns will help us understand how React works and describe useful forms of refactoring our code.
+일반적인 안티 패턴에 익숙해지면 리액트가 어떻게 작동하는지 이해하고 코드 리팩터링의 유용한 형태를 설명하는 데 도움이됩니다.
