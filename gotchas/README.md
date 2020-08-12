@@ -1,8 +1,8 @@
-# Gotchas
+# 걸림돌[Gotchas]
 
-React is intuitive for the most part, but there are quite a few stumbling points which might catch you by surprise. We'll discuss more on them here.
+리액트는 대부분 직관적이지만, 놀라울 정도로 많은 걸림돌이 있습니다. 여기에서 더 자세히 설명하겠습니다.
 
-## Articles
+## 참고 자료
 
 [React Gotchas](https://daveceddia.com/react-gotchas/)
 
